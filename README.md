@@ -7,12 +7,12 @@ This project presents an analytical Excel dashboard that helps assess and monito
 ## 📸 Dashboard Snapshots
 
 <p align="center">
-  <img src="./assets/bank_loan_dashboard1.jpg" width="700" alt="Summary Dashboard">
+  <img src="./assets/bank_loan_dashboard1.png" width="700" alt="Summary Dashboard">
   <br><i>Dashboard 1: Summary Overview</i>
 </p>
 
 <p align="center">
-  <img src="./assets/bank_loan_dashboard2.jpg" width="700" alt="Overview Dashboard">
+  <img src="./assets/bank_loan_dashboard2.png" width="700" alt="Overview Dashboard">
   <br><i>Dashboard 2: Visual Trends & Regional Insights</i>
 </p>
 

@@ -16,11 +16,6 @@ This project presents an analytical Excel dashboard that helps assess and monito
   <br><i>Dashboard 2: Visual Trends & Regional Insights</i>
 </p>
 
-<p align="center">
-  <img src="./assets/bank_loan_dashboard3.jpg" width="700" alt="Details Dashboard">
-  <br><i>Dashboard 3: Detailed Loan View</i>
-</p>
-
 ---
 
 ## 📝 Project Description
